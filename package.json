@@ -1,0 +1,15 @@
+{
+  "name": "organisation-boilerplate",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.26.0",
+    "meteor-node-stubs": "^0.3.2",
+    "prop-types": "^15.6.0",
+    "react": "^16.1.1",
+    "react-addons-pure-render-mixin": "^15.6.2",
+    "react-dom": "^16.1.1"
+  }
+}
