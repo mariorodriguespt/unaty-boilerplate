@@ -1,5 +1,5 @@
 const setAuthorID = ( userId , doc ) => {
-    doc.authorID = userId;
+    doc.authorId = userId;
 };
 
 UN.Posts.Collections.Posts.before.insert( setAuthorID );

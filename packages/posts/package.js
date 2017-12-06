@@ -33,7 +33,9 @@ Package.onUse(function(api) {
       'server/methods/mark-as-favorite.js',
 
       'server/hooks/set-author.js',
-      'server/hooks/set-metadata.js'
+      'server/hooks/set-metadata.js',
+
+      'server/startup/seed-data.js'
 
   ] , 'server' );
 

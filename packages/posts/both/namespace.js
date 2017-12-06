@@ -8,5 +8,6 @@
 UN.Posts = {
     Collections : {},
     Schemas     : {},
-    Config      : {}
+    Config      : {},
+    Methods     : {}
 };
